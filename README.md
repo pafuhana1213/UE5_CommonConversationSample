@@ -28,7 +28,7 @@ Using the graph-based UI shown above, you can manage and control conversations, 
 [35 UE5 Features You Probably Don't Know About | Unreal Fest 2022](https://www.youtube.com/watch?v=k2IP5DYQ0-0)
 
 # Description
-aaa
+https://pafuhana1213.hatenablog.com/entry/2022/12/28/165025
 
 # Author
 https://twitter.com/pafuhana1213
