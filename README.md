@@ -2,12 +2,12 @@
 ![image](https://user-images.githubusercontent.com/8957600/209765163-e0b76f4d-f1a2-4d98-a814-4d5268a3cf65.png)  
 ![image](https://user-images.githubusercontent.com/8957600/209765207-9d2b0179-18ee-49fc-95cf-936bd3d8aa43.png)  
 
-UE4.27から追加されているCommon ConversationプラグインをUE5.1で動かしてみたというサンプルプロジェクトです。
+UE4.27から追加されているCommon ConversationプラグインをUE5.2で動かしてみたというサンプルプロジェクトです。
 上図のようなグラフベースのUIを使って、会話・クエスト・ゲームの進行状況などを管理・制御することができます。
 
 ---
 
-This is a sample project of the Common Conversation plugin that has been added since UE4.27 and is now working with **UE5.1**.  
+This is a sample project of the Common Conversation plugin that has been added since UE4.27 and is now working with **UE5.2**.  
 Using the graph-based UI shown above, you can manage and control conversations, quests, game progress, etc.
 
 # Warning
